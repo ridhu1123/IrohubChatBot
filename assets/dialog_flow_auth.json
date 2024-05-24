@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ridhunchatbot-plrh",
+  "private_key_id": "bbad59a0c170f97b7e78036139a63ef65cb0ff81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2ffMg469xrOXF\n0CErd7WpKXeWA+L/yka++kVZQJ2M3F9D8UW9OCpWAOpCaDHxG12poEa742YTtRWb\nUThjUCWxBsNNc7W5iVV/O2zkvOr4iTovTf9nh6O1lVyz1/Aa0GFcw6YzwWfnXHJX\n/S39Nws6/SmBr/O48Cq2p1/aDZCN2LaTaSJNhBjSeftqFzTgP7qn7xJkuSF7evoz\nSJIh7WU9g/z8WJHSHH7MLlLOXuW2fvvsi9wIAQ4hFNieqpfYF5owy//FqVBZNFdm\n467QEH4mUH/oYqW1KKtQBdw0pHPgjc4DRrVDEq/T96YTPrOsAtHYWSwn0BAE0q8B\nP8Etz0hhAgMBAAECggEABCHHK90X43kklTVkkN9DotZEZcZGASBneGrCf/Y3cwFo\n20kW2QVQ6RRZeYIyMkk6Nk1hmJ66GJNirzr4LcB6b/8NFD9803v9bnVuHmI8KD80\nLO7FTAbtUR7WA+DtZ/AEqlToOhcElx+X26/o9wkkZRQnGM9+81alwu+4ev+QYLPI\nCcHE2EVUTTSTkthMk2iJglQM7Q/+FbAX9kDc5hw4Ol7dGxJWLWIayp06RBgU3Wnq\nQNhNVhCQayi1aQxdxv9fbI9qfOzNI9pVOPm0inAnDL+ZVVgXGWBtxKhJD+3Dl1Y/\naz+QqY67N+zzgtKMfJ9F+sh8VSNrBnnDbnMY+jxfKQKBgQDZYXiEkA5+N2i23y0A\naowwRFSoggsJ5yVUVfMv85g3wxD9GQFUS6vDIUJdi9FiYmdWOiX4zMWhlNtzA1uC\n27gLNwFXTm4pGFhLEAAL8pmySsdC0D7hkgE5uz+z+yrdR5KJj13QK3HAVMLvPfZl\nIbMBmhLi3YawN4NP4m6OkjKhaQKBgQDW6brbtiPslynj4S0HB4Fk7poW4hyhm8Pt\nh8sPVRCbVlVUek6MvTtfTzkuluCWzXo8ZHk4zae6JNGijHInyuYCXGTBHt8wMqcd\nQgxTrLcKf/dhHjDuQoFH2/kT5Q5Gz4ap39ibZ5FGVZPT1Y1vOaJ/jumk2yPCBy8r\nU8a1QbuYOQKBgATBpztvU4HbgIUP2RI7QpoDxL5zKf6rehugTdPsxpXhxMtk8qx/\ng2Cfp64YUxqOAKjYWOBayrBAa5TWq/fvCtXj/DmG084+ZCAwV2/rfQVzsWx61gVl\nhnVW7YvooQV6fXBZHLpjWPfWYvWNK4kG9b3BO0yPgFT2wf7Le5PPCyCRAoGBAJ2k\nBHR1PhSlLQ0CdszZLIiknFJ8uROx9h2dpc0xUGUhBqZYsJV7mLlom0EZWtRDFI6I\nBIMuFwHrT/ozmuilY+IHc8BUrNHl1b8YW4JlBj6lbwfF5Y5fKgVTzXhSZA582wJw\nN6qGZYF59F1GH+CeHhwC8E8Ej04bhvX5FaCO/tPBAoGACM7XmM32zvjF4MklufYt\nyBcKo1TLCSKb4mn9nbt8gruotz4GF/mb55ndGqJB7B5OxhzSGGmyNgay0Himtb3O\ng5+k+JYh8/6/Hf3jyXXlLP2xIKHzo7Z3KH2DAuYXpxFDc5R36p9D5YnxLwVpKCEK\nM8g/eaXoSWN9UVM6Yvz0XWM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ridhunbot@ridhunchatbot-plrh.iam.gserviceaccount.com",
+  "client_id": "118365607562222746642",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ridhunbot%40ridhunchatbot-plrh.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
